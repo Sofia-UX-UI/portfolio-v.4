@@ -1,10 +1,17 @@
 ---
-title: Projects
+title: Case study
 description: A description of this category
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#C4DDB1"
     color: "#fff"
+
+
+    
 ---
+# Badge style
+style:
+    background: "#D0BCFF"
+    color: "#fff"
