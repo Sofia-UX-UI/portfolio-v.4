@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Projects
 description: A description of this category
 image:
 
