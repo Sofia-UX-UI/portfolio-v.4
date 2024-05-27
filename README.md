@@ -1,6 +1,5 @@
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b16b4601-6253-49af-9c2e-9f62fe383d70/deploy-status)](https://app.netlify.com/sites/sofiaorellanoportfolio/deploys)
 
 # Hugo Theme Stack Starter Template
 
