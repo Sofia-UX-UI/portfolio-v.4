@@ -88,7 +88,6 @@ User research: mixed methods
 ## Step 2: Define
 <a name="step2"></a>
 
-![Who are the users](desktop.gif)
 
 In the first convergent phase of the project, eight problem statements were defined and asked for validation from a small group of users. As the field was unknown prior to this project, it was important to validate at an early stage the main problem. After receiving some answers a user suggested that focusing on a single software was not a good approach since several softwares were needed at different moments.
 
