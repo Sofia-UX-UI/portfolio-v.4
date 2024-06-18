@@ -37,16 +37,20 @@ type = "archives"
 limit = 5
 
 [[widgets.homepage]]
-type = "categories"
+type = "taxonomy"
 
 [widgets.homepage.params]
 limit = 10
+type = "categories"
+icon = "categories"
 
 [[widgets.homepage]]
-type = "tag-cloud"
+type = "taxonomy"
 
 [widgets.homepage.params]
 limit = 10
+type = "tags"
+icon = "tag"
 
 [[widgets.page]]
 type = "toc"
