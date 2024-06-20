@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Sofia Orellano's portfolio</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/page/</link><description>Recent content in Pages on Sofia Orellano's portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/archives/</guid><description/></item><item><title>About</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/about/</guid><description>&lt;p>Coming from an industrial design background, I have a particular interest for technical aspects of projects, such as programming on different languages and different frameworks. While I enjoy participating in all stages of the design process, the design handoff is a topic that has caught my attention.&lt;/p>
+&lt;p>&lt;code>🐋&lt;/code>
+&lt;code>🏄🏻&lt;/code>
+&lt;code>🧘🏻‍♀️&lt;/code>
+&lt;code>🌲&lt;/code>&lt;/p>
+&lt;h2 id="highlights-of-my-career">Highlights of my career:&lt;/h2>
+&lt;blockquote>
+&lt;ul>
+&lt;li>&lt;em>&lt;strong>Industrial Design Studio&lt;/strong>: Worked in an industrial design studio.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Award-Winning Thesis&lt;/strong>: My industrial design thesis won international awards and grants, eventually becoming a reality.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Startup Founder&lt;/strong>: Founded a startup based on my thesis.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Project Development&lt;/strong>: Designed and developed over 50 projects for the startup.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>International Speaker&lt;/strong>: Traveled to the US, Germany, and Latin America to give talks and present the startup.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Web Design&lt;/strong>: Designed websites on the side.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>UX Bootcamp in Germany&lt;/strong>: Lived in Germany during covid and completed a UX bootcamp.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Moved to the UK&lt;/strong>: Officially moved to the UK.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Continued Startup Work&lt;/strong>: Continued working on the startup, though the distance posed challenges.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Started UX Masters&lt;/strong>: Began a UX master’s program.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Project Creation&lt;/strong>: Started creating amazing projects.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Interest in Machine Learning&lt;/strong>: Became very interested in machine learning.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Collaboration with Researchers&lt;/strong>: Started collaborating with computer science researchers.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>Seeking Outstanding Projects&lt;/strong>: Looking for outstanding projects to work on.&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="codeblock">
+&lt;header>
+&lt;span class="codeblock-lang">yaml&lt;/span>
+&lt;button
+class="codeblock-copy"
+data-id="codeblock-id-0"
+data-copied-text="Copied!"
+>
+Copy
+&lt;/button>
+&lt;/header>
+&lt;code id="codeblock-id-0" style="display:none;">links:
+- title: GitHub
+description: GitHub is the world&amp;#39;s largest software development platform.
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+- title: TypeScript
+description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+website: https://www.typescriptlang.org
+image: ts-logo-128.jpg&lt;/code>&lt;div class="">&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/div>&lt;/div>
+&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/search/</guid><description/></item></channel></rss>
