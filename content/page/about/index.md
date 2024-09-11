@@ -1,5 +1,5 @@
 ---
-title: About
+title: About CV
 about:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
