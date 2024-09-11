@@ -21,7 +21,7 @@ comments: false
 `🧘🏻‍♀️`
 `🌲`
 
-## Highlights of my career:
+## Highlights of my career
 
 >- ***Industrial Design Studio**: Worked in an industrial design studio.*
 >- ***Award-Winning Thesis**: My industrial design thesis won international awards and grants, eventually becoming a reality.*
@@ -37,7 +37,6 @@ comments: false
 >- ***Interest in Machine Learning**: Became very interested in machine learning.*
 >- ***Collaboration with Researchers**: Started collaborating with computer science researchers.*
 >- ***Seeking Outstanding Projects**: Looking for outstanding projects to work on.*
-
 
 To use this feature, add `links` section to frontmatter.
 
