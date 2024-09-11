@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Resume
 about:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
