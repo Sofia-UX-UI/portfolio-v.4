@@ -13,7 +13,7 @@ menu:
 
 comments: false
 ---
-![Resume](CV_S_O.PNG)
+![Resume](Prueba1.png)
 <!--Coming from an industrial design background, I have a particular interest for technical aspects of projects, such as programming on different languages and different frameworks. While I enjoy participating in all stages of the design process, the design handoff is a topic that has caught my attention.
 
 `🐋`
