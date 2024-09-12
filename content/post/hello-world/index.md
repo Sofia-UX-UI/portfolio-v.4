@@ -82,14 +82,14 @@ The ideation stage, characterized by divergent thinking, began with a design stu
 
 ## Step 4: Prototype
 
-Description of step 4...
+FeaturesDescription of step 4...
 Content related to step 4.
 
 | Devices   | Design strategy     | Platform   |
 | --------  | -------- | ------ |
-| `desktop, tablet, mobile` | `desktop first` | `IOs` |
+| `desktop, tablet, mobile` | `desktop first` | `IOs` | 
 
-![Design studio](DS.jpg) ![Sketches](DS2.jpg)
+![Iteration](IT.gif)
 
 ## Step 5: Test
 
