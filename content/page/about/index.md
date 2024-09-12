@@ -104,11 +104,6 @@ Experienced UX/UI designer and startup founder with 8+ years of experience leadi
 - **Orange innovation (IDB Bank)**, 2019  
 - **Startup Germany (IHK)**, 2018
 
-## Certificates
-- Specialization in VR, University of London, 2022
-- Accessibility: How to Design for All?, Interaction Design Foundation (2021)
-- Arduino programming, Sinergia Tech Academy (2017)
-- Enabling technologies for Data Science and Analytics, Columbia X (2019)
 
 <!--Coming from an industrial design background, I have a particular interest for technical aspects of projects, such as programming on different languages and different frameworks. While I enjoy participating in all stages of the design process, the design handoff is a topic that has caught my attention.
 
