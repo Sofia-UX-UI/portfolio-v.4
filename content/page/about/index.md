@@ -10,8 +10,6 @@ menu:
         weight: 3
         params:
             icon: link
-tags: 
-    - PDF
 comments: false
 ---
 
