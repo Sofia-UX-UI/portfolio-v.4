@@ -1,12 +1,5 @@
 ---
 title: Resume 
-<div style="text-align: right;">
-    <a href="https://drive.google.com/file/d/1_72e0CrpVkZcS-XGWsN5FB4DUhubxb_0/view?usp=sharing" target="_blank" style="text-decoration:none;">
-        <button style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
-            Download PDF
-        </button>
-    </a>
-</div>
 about:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
