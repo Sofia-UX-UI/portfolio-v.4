@@ -14,11 +14,9 @@ menu:
 comments: false
 ---
 
-## Sofía Orellano
+## Sofía Orellano: UX/UI Designer
 
-### UX/UI Design
-
-## Info
+## Contact information
 
 - **Location**: Durham, UK  
 - **Phone**: +44 (0) 7933-026207  
@@ -27,22 +25,6 @@ comments: false
   - [LinkedIn](https://www.linkedin.com/in/sofiaorellano/)  
   - [Portfolio](https://sofiaorellanoportfolio.netlify.app)  
   - [Github](https://github.com/Sofia-UX-UI?tab=repositories)
-
-## Languages
-
-- Spanish: native
-- English: advanced
-- Portuguese: intermediate  
-- German: intermediate
-- Italian: intermediate
-
-## Awards
-
-- **UI/UX (Intogames)**, 2023  
-- **Jira Competition (Devpost)**, 2021  
-- **Circular Economy (ANDE)**, 2020  
-- **Innovation (IDB Bank)**, 2019  
-- **Startup Germany (IHK)**, 2018  
 
 ## Skills
 
@@ -53,7 +35,7 @@ comments: false
 - Interaction Design  
 - Agile Methodologies  
 - Leadership & Management  
-- HTML/CSS, React, Python  
+- HTML/CSS, React, Python
 
 ## Employment History
 
@@ -72,13 +54,6 @@ comments: false
 - Developed and delivered UX/UI courses, emphasizing user-centered design and entrepreneurial thinking.  
 - Trained students in UX research techniques, including market analysis and user testing.  
 - Led expert panels to provide students with real-world project feedback and collaboration opportunities.
-
-## Education
-
-- **MA User Experience Design** – Falmouth University, May 2023 - May 2025  
-- **AI Bootcamp (GTP models)** – Encode Club, Jun - July 2024  
-- **UX/UI Design Bootcamp** – Ironhack Academy, March - May 2021  
-- **BA Industrial Design** – Universidad de la Empresa, March 2009 - May 2013  
 
 ## Projects
 
@@ -99,6 +74,31 @@ comments: false
 **AND Digital** | May 2021
 
 - Conducted user research, mapping, and analysis for prototyping and testing within an Agile framework.
+
+## Education
+
+- **MA User Experience Design** – Falmouth University, May 2023 - May 2025  
+- **AI Bootcamp (GTP models)** – Encode Club, Jun - July 2024  
+- **UX/UI Design Bootcamp** – Ironhack Academy, March - May 2021  
+- **BA Industrial Design** – Universidad de la Empresa, March 2009 - May 2013  
+
+## Languages
+
+- Spanish: native
+- English: advanced
+- Portuguese: intermediate  
+- German: intermediate
+- Italian: intermediate
+
+## Awards
+
+- **UI/UX (Intogames)**, 2023  
+- **Jira Competition (Devpost)**, 2021  
+- **Circular Economy (ANDE)**, 2020  
+- **Innovation (IDB Bank)**, 2019  
+- **Startup Germany (IHK)**, 2018    
+
+
 
 | SofiaOrellano UX/UI Designer | ![] Sofia Orellano Durham, UK \+44 (0) 7933-026207 [sofia.orellano@gmail.com](mailto:sofia.orellano@gmail.com) Experienced UX/UI designer and startup founder with 8+ years of experience leading design innovation and cross-functional teams. Recently initiated AI-assisted design research, resulting in a cutting-edge prototype that optimizes the design process. Now seeking to bring my leadership and UX/UI expertise to a fast-paced UK company. |
 | :---- | :---- |
