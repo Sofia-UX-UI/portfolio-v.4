@@ -19,7 +19,6 @@ comments: false
         </button>
     </a>
 </div>
-<br><br>
 
 ## Sofía Orellano: UX/UI Designer
 
