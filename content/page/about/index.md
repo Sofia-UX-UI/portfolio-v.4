@@ -22,6 +22,7 @@ comments: false
     </a>
 </div>
 
+
 ## Sofía Orellano: UX/UI Designer
 
 Experienced UX/UI designer and startup founder with 8+ years of experience leading design innovation and cross-functional teams. Recently initiated AI-assisted design research, resulting in a cutting-edge prototype that optimizes the design process. Now seeking to bring my leadership and UX/UI expertise to a fast-paced UK company.
