@@ -42,17 +42,17 @@ Experienced UX/UI designer and startup founder with 8+ years of experience leadi
 
 ## Employment History
 
-### 'Founder & Head of Design'  
+### Founder & Head of Design  
 
-**Urban Mento** | July 2015 - Present
+`**Urban Mento** | July 2015 - Present`
 
 - Founded and scaled a design-focused startup, delivering urban furniture solutions in over 20 cities.  
 - Increased user engagement by 35% through innovative design in e-commerce, urban design, and gaming sectors.  
 - Led cross-functional teams, driving strategic initiatives that resulted in product innovations and business growth.
 
-### 'Lecturer'  
+### Lecturer  
 
-**Universidad de la Empresa** | Mar 2017 - Dec 2020
+`**Universidad de la Empresa** | Mar 2017 - Dec 2020`
 
 - Developed and delivered UX/UI courses, emphasizing user-centered design and entrepreneurial thinking.  
 - Trained students in UX research techniques, including market analysis and user testing.  
