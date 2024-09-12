@@ -44,7 +44,7 @@ Experienced UX/UI designer and startup founder with 8+ years of experience leadi
 
 ### Founder & Head of Design  
 
-`**Urban Mento** | July 2015 - Present`
+`Urban Mento | July 2015 - Present`
 
 - Founded and scaled a design-focused startup, delivering urban furniture solutions in over 20 cities.  
 - Increased user engagement by 35% through innovative design in e-commerce, urban design, and gaming sectors.  
@@ -52,7 +52,7 @@ Experienced UX/UI designer and startup founder with 8+ years of experience leadi
 
 ### Lecturer  
 
-`**Universidad de la Empresa** | Mar 2017 - Dec 2020`
+`Universidad de la Empresa | Mar 2017 - Dec 2020`
 
 - Developed and delivered UX/UI courses, emphasizing user-centered design and entrepreneurial thinking.  
 - Trained students in UX research techniques, including market analysis and user testing.  
@@ -62,19 +62,19 @@ Experienced UX/UI designer and startup founder with 8+ years of experience leadi
 
 ### Identity AI Web App  
 
-**The Organization for Identity & Cultural Development** | Dec 2023 - Present
+`The Organization for Identity & Cultural Development | Dec 2023 - Present`
 
 - Designed a mobile and desktop web app for conflict resolution researchers. Optimized information architecture and developed the front-end using Tailwind. Conducted A/B testing to improve user experience.
 
 ### Design Handoff AI Web App  
 
-**Falmouth University** | September 2023 - Present
+`Falmouth University | September 2023 - Present`
 
 - Co-authored research on AI's role in UX design processes. Conducted qualitative and quantitative research with UX professionals. Developed functional solutions for integrated design systems using VS and Figma.
 
 ### Decision Record Tracking  
 
-**AND Digital** | May 2021
+`AND Digital | May 2021`
 
 - Conducted user research, mapping, and analysis for prototyping and testing within an Agile framework.
 
