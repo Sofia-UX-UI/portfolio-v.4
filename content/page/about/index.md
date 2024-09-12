@@ -14,9 +14,6 @@ tags:
     - PDF
 comments: false
 ---
-
-## Sofía Orellano: UX/UI Designer
-[Download PDF](https://drive.google.com/file/d/1_72e0CrpVkZcS-XGWsN5FB4DUhubxb_0/view?usp=sharing)
 <div style="text-align: right;">
     <a href="https://drive.google.com/file/d/1_72e0CrpVkZcS-XGWsN5FB4DUhubxb_0/view?usp=sharing" target="_blank" style="text-decoration:none;">
         <button style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
@@ -25,6 +22,7 @@ comments: false
     </a>
 </div>
 
+## Sofía Orellano: UX/UI Designer
 
 Experienced UX/UI designer and startup founder with 8+ years of experience leading design innovation and cross-functional teams. Recently initiated AI-assisted design research, resulting in a cutting-edge prototype that optimizes the design process. Now seeking to bring my leadership and UX/UI expertise to a fast-paced UK company.
 
