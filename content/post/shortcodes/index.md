@@ -21,6 +21,10 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 {{< youtube "p8bhL8u0jNM" >}}
 
+## Runthrough
+
+{{< youtube "lWBQpBwquPE" >}}
+
 ## Generic video file
 
 {{< video "https://www.w3schools.com/tags/movie.mp4" >}}
