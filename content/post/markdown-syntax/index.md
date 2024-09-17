@@ -1,14 +1,15 @@
 ---
-title: Markdown Syntax Guide
+title: Enhanced Design Handoff with Chatbot Integration (Handbot)
 date: 2024-02-07
-description: In-progress article showcasing a Python-generated chatbot enhancing the design handoff by formatting user personas.
+description: Improving design handoffs with a Python-generated chatbot.
 tags: 
-    - markdown
+    - user research
   
 categories:
-    - Paper
+    - user research
     - Python
-    - VS
+    - AI
+    - development
 
 ---
 - themes

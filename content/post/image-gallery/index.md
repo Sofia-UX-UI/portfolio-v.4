@@ -1,10 +1,13 @@
 ---
-title: AND Image gallery
-description: Create beautiful interactive image gallery using Markdown
+title: Decision Tracking for Regulated Industries (AND Digital)
+description: Developing an internal tool to support decision-making processes.
 date: 2023-08-26 00:00:00+0000
 image: 2.jpg
 categories: 
-    - role
+    - user research
+    - market analysis
+    - Figma prototype
+    - regulated industries
 ---
 
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).

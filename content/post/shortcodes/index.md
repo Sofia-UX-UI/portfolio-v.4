@@ -1,10 +1,13 @@
 ---
-title: Nomad's notes
-description: Useful shortcodes that can be used in Markdown
+title: Language Game Development (Nomad’s Notes)
+description: Creating an engaging, language-based game from concept to launch.
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
 categories:
-    - role
+    - game design
+    - Unity
+    - language learning
+    - development
 ---
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).

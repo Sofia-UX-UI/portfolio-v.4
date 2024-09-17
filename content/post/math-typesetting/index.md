@@ -1,10 +1,13 @@
 ---
-title: Math Typesetting
-description: Math typesetting using KaTeX
+title: Character Generation with Image Stabilization (Character Designer)
+description: Building a character generator with dynamic image stabilization.
 date: 2023-08-24 00:00:00+0000
 math: true
 categories:
-    - role
+    - User research
+    - React
+    - AI
+    - development
 ---
 
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).

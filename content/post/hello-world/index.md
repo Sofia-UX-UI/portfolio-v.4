@@ -1,14 +1,14 @@
 ---
-title: Bioacoustics Learn
-description: "Research-based case study featuring the ux process and early-tested development of generative AI learning center, incorporating a scalable design system with variable parameters for enhanced usability."
+title: Generative AI Learning Center (Bioacoustics Learn)
+description: "Designing a scalable learning platform within bioacoustics using generative AI."
 slug: BA-learn
 date: 2024-04-15 00:00:00+0000
 image: 1.jpg
 categories:
-    - Case study
-    - Figma
-    - Design system
-    - Variables
+    - design system
+    - user research
+    - Figma prototype
+    - AI
 tags:
     - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
