@@ -11,15 +11,15 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 <## Bilibili video>
 
-{{< bilibili "BV1d4411N7zD" >}}
+<{{< bilibili "BV1d4411N7zD" >}}>
 
 <## Tencent video>
 
-{{< tencent "g0014r3khdw" >}}
+<{{< tencent "g0014r3khdw" >}}>
 
 <## YouTube video>
 
-{{< youtube "p8bhL8u0jNM" >}}
+<{{< youtube "p8bhL8u0jNM" >}}>
 
 ## Game Runthrough
 
@@ -27,15 +27,15 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 <## Generic video file>
 
-{{< video "https://www.w3schools.com/tags/movie.mp4" >}}
+<{{< video "https://www.w3schools.com/tags/movie.mp4" >}}>
 
 <## Gist>
 
-{{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}
+<{{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}>
 
 <## GitLab>
 
-{{< gitlab 2589724 >}}
+<{{< gitlab 2589724 >}}>
 
 ## Quote
 
