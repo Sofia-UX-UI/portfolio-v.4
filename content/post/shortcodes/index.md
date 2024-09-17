@@ -9,31 +9,31 @@ categories:
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 
-## Bilibili video
+<## Bilibili video>
 
 {{< bilibili "BV1d4411N7zD" >}}
 
-## Tencent video
+<## Tencent video>
 
 {{< tencent "g0014r3khdw" >}}
 
-## YouTube video
+<## YouTube video>
 
 {{< youtube "p8bhL8u0jNM" >}}
 
-## Runthrough
+## Game Runthrough
 
 {{< youtube "lWBQpBwquPE" >}}
 
-## Generic video file
+<## Generic video file>
 
 {{< video "https://www.w3schools.com/tags/movie.mp4" >}}
 
-## Gist
+<## Gist>
 
 {{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}
 
-## GitLab
+<## GitLab>
 
 {{< gitlab 2589724 >}}
 
