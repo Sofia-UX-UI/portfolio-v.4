@@ -1,7 +1,7 @@
 ---
-title: Language Game Development (Nomad’s Notes)
+title: Language Game Development 
 description: Creating an engaging, language-based game from concept to launch.
-date: 2023-08-25 00:00:00+0000
+date: 2024-08-25 00:00:00+0000
 image: cover.jpg
 categories:
     - Game design

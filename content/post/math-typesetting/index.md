@@ -1,7 +1,7 @@
 ---
-title: Character Generation with Image Stabilization (Character Designer)
+title: Character Generation with Image Stabilization 
 description: Building a character generator with dynamic image stabilization.
-date: 2023-08-24 00:00:00+0000
+date: 2024-07-24 00:00:00+0000
 math: true
 categories:
     - User research

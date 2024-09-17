@@ -1,7 +1,7 @@
 ---
-title: Decision Tracking for Regulated Industries (AND Digital)
+title: Decision Tracking for Regulated Industries 
 description: Developing an internal tool to support decision-making processes.
-date: 2023-08-26 00:00:00+0000
+date: 2021-08-26 00:00:00+0000
 image: 2.jpg
 categories: 
     - User research

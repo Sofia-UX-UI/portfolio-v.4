@@ -1,8 +1,8 @@
 ---
-title: Generative AI Learning Center (Bioacoustics Learn)
+title: Generative AI Learning Center 
 description: "Designing a scalable learning platform within bioacoustics using generative AI."
 slug: BA-learn
-date: 2024-04-15 00:00:00+0000
+date: 2024-03-15 00:00:00+0000
 image: 1.jpg
 categories:
     - Design system
