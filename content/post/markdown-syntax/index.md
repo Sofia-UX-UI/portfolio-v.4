@@ -7,6 +7,7 @@ tags:
   
 categories:
     - User research
+    - User testing
     - Python
     - AI
     - Development

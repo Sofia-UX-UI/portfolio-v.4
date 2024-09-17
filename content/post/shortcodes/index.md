@@ -5,6 +5,7 @@ date: 2024-08-15 00:00:00+0000
 image: cover.jpg
 categories:
     - Game design
+    - Market research
     - Unity
     - Language learning
     - Development

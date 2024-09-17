@@ -7,9 +7,9 @@ image: 1.jpg
 categories:
     - Design system
     - User research
+    - User testing
     - Figma prototype
     - AI
-    - User testing
 tags:
     - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
