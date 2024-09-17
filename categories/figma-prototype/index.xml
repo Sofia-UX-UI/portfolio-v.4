@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Figma Prototype on Sofia Orellano's portfolio</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/categories/figma-prototype/</link><description>Recent content in Figma Prototype on Sofia Orellano's portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/categories/figma-prototype/index.xml" rel="self" type="application/rss+xml"/><item><title>Generative AI Learning Center</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/</guid><description>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/1.jpg" alt="Featured image of post Generative AI Learning Center" />&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DBA.jpg"
+width="5093"
+height="3395"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DBA_hu2879307454910490441.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DBA_hu1043353695443042279.jpg 1024w"
+loading="lazy"
+alt="Desktop home page"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>
+&lt;/p>
+&lt;h2 id="project-overview">Project overview&lt;/h2>
+&lt;p>Bioacoustics Learn (BL) integrates online repositories to curate technical content for marine and terrestrial bioacousticians, featuring a scalable design system developed with variable parameters for enhanced usability. Community-driven user testing and research informed continuous improvement and iterations.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Field&lt;/th>
+&lt;th style="text-align: left">Role&lt;/th>
+&lt;th style="text-align: left">Duration&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;em>bioacoustics&lt;/em>&lt;/td>
+&lt;td style="text-align: left">&lt;em>lead designer&lt;/em>`&lt;/td>
+&lt;td style="text-align: left">&lt;code>3 months&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="project-timeline">Project Timeline&lt;/h2>
+&lt;p>The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.&lt;/p>
+&lt;p>&lt;code>1 Research: 3 weeks&lt;/code>&lt;/p>
+&lt;p>&lt;code>2 Define: 2 weeks&lt;/code>&lt;/p>
+&lt;p>&lt;code>3 Ideate: 1 week&lt;/code>&lt;/p>
+&lt;p>&lt;code>4 Prototype: 1 month&lt;/code>&lt;/p>
+&lt;p>&lt;code>5 Test: 1 week&lt;/code>&lt;/p>
+&lt;h2 id="step-1-research">Step 1: Research&lt;/h2>
+&lt;p>In the field of bioacoustics, user research was vital for supporting the work of bioacousticians, with a primary focus on understanding the behaviors and needs of both &lt;strong>human users&lt;/strong> and &lt;strong>marine and terrestrial animal subjects&lt;/strong> interacting with sound-based technologies. This multidisciplinary approach involved contextual online analysis, thematic analysis, and interaction analysis through observation, long interviews with open-ended questions and specific instances of interaction within mailing subscription lists, Stack Exchange bioacoustics, Wild Labs, among others. These platforms facilitated the collection of insights into the ways bioacousticians navigate the precise analysis and interpretation of complex acoustic data through the use of multiple software and analysis techniques. The user research also included a literature review of 15 academic papers related to the topic to understand more about the workflow of bioacousticians. Additionally, a snowballing effect was utilized to reach individuals through provided contacts, resulting in 21 survey participants and 5 initial interviews. Grounded in the knowledge of animal behaviors and needs, these techniques provide valuable insights for the development of bioacoustic monitoring solutions and the design of intuitive interfaces to enhance the work of bioacousticians.&lt;/p>
+&lt;p>User research: mixed methods&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Research type&lt;/th>
+&lt;th style="text-align: left">Tool&lt;/th>
+&lt;th style="text-align: left">Literature review&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;em>Primary&lt;/em>&lt;/td>
+&lt;td style="text-align: left">Survey&lt;/td>
+&lt;td style="text-align: left">&lt;code>21 participants&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;em>Primary&lt;/em>&lt;/td>
+&lt;td style="text-align: left">Interviews&lt;/td>
+&lt;td style="text-align: left">&lt;code>5 interviews&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;em>Secondary&lt;/em>&lt;/td>
+&lt;td style="text-align: left">Literature review&lt;/td>
+&lt;td style="text-align: left">&lt;code>15 papers&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;em>Secondary&lt;/em>&lt;/td>
+&lt;td style="text-align: left">Contextual&lt;/td>
+&lt;td style="text-align: left">&lt;code>7 channels&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UR1.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UR1_hu12588643322721589815.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UR1_hu2670668942621432317.jpg 1024w"
+loading="lazy"
+alt="Who are the users"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UR5.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UR5_hu15595438846419363135.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UR5_hu14364881568320605857.jpg 1024w"
+loading="lazy"
+alt="What do users say"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/EM.png"
+width="11138"
+height="4444"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/EM_hu9526161436968610820.png 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/EM_hu456290820213596956.png 1024w"
+loading="lazy"
+alt="Empathy map"
+class="gallery-image"
+data-flex-grow="250"
+data-flex-basis="601px"
+>
+&lt;/p>
+&lt;h2 id="step-2-define">Step 2: Define&lt;/h2>
+&lt;p>In the first convergent phase of the project, eight problem statements were defined and asked for validation from a small group of users. As the field was unknown prior to this project, it was important to validate at an early stage the main problem. After receiving some answers a user suggested that focusing on a single software was not a good approach since several softwares were needed at different moments.&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>&lt;em>&lt;strong>Problem statement:&lt;/strong> the user needs guidance in selecting the most suitable tools for processing and visualizing large volumes of marine data.&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>How might we&lt;/strong> develop a decision-making tool that can assist the user.&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Four personas were created to illustrate the different needs of users: primary persona wants to get a grip and learn new software to conduct research for her PhD. It was also considered someone coming from another background like data scientist.&lt;/p>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P1.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P1_hu11372793774542652026.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P1_hu4564116466990987829.jpg 1024w"
+loading="lazy"
+alt="Persona 1"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P2.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P2_hu8830335912133183104.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P2_hu14570493220598653189.jpg 1024w"
+loading="lazy"
+alt="Persona 2"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P3.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P3_hu4435201210877026327.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P3_hu7260743427720907442.jpg 1024w"
+loading="lazy"
+alt="Persona 3"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P4.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P4_hu9862289121781229259.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/P4_hu13679635400924710795.jpg 1024w"
+loading="lazy"
+alt="Persona 4"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;p>The competitor analysis was created through element and combined with pluses and deltas allowed to visualize the patterns in learning center and how did users felt about them. Microsoft Learn was considered as &lt;em>best-in-class&lt;/em> and the task analysis was conducted with it.&lt;/p>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/CA1.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/CA1_hu14654102117224584953.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/CA1_hu7953613624562869166.jpg 1024w"
+loading="lazy"
+alt="Competitor analysis: pluses and deltas"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/CA2.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/CA2_hu13937800190660033152.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/CA2_hu10746313155647723689.jpg 1024w"
+loading="lazy"
+alt="Task analysis"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;p>To streamline the learning experience and reduce barriers to entry, a userflow was created. Through iterations, it was defined that fewer steps are needed to start learning, with no log in or sign up required to begin. To better understand and support the user&amp;rsquo;s educational goals, a user journey was mapped out. Considering that the user goal is to take a course to apply it later in their research, the range of available courses was expanded based on user validations.&lt;/p>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UF.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UF_hu15392242854086569245.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UF_hu9386621635783482455.jpg 1024w"
+loading="lazy"
+alt="Useflow"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UJ.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UJ_hu16761113806215726459.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/UJ_hu15975194760543898893.jpg 1024w"
+loading="lazy"
+alt="User journey"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="step-3-ideate">Step 3: Ideate&lt;/h2>
+&lt;p>The ideation stage, characterized by divergent thinking, began with a design studio involving three participants (including myself). The primary goal was to generate ideas and validate them collaboratively through iterative processes. The participants, while not bioacousticians, were scientists working in academia. This session was highly successful, as it introduced the main concepts and identified how users prefer to receive information and the types of information that are important to them. Having previously mapped out an initial information architecture proved crucial. By the end of the session, key ideas agreed upon included the selection of learning paths and the option to filter courses to match users&amp;rsquo; specific needs and the importance of an effective onboarding process.&lt;/p>
+&lt;h3 id="design-studio">Design studio&lt;/h3>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS_hu18140087041934850276.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS_hu2211415514296509609.jpg 1024w"
+loading="lazy"
+alt="Design studio"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS3.png"
+width="8258"
+height="6436"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS3_hu16641568216760734577.png 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS3_hu10634789330304855387.png 1024w"
+loading="lazy"
+alt="Initial sketches"
+class="gallery-image"
+data-flex-grow="128"
+data-flex-basis="307px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS2.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS2_hu2152341896893044334.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS2_hu11953467836026461698.jpg 1024w"
+loading="lazy"
+alt="Sketches"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/WF.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/WF_hu12165673057931088173.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/WF_hu16784553195237241204.jpg 1024w"
+loading="lazy"
+alt="Wireflow"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="step-4-prototype">Step 4: Prototype&lt;/h2>
+&lt;p>FeaturesDescription of step 4&amp;hellip;
+Content related to step 4.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Devices&lt;/th>
+&lt;th style="text-align: left">Design strategy&lt;/th>
+&lt;th style="text-align: left">Platform&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;code>desktop, tablet, mobile&lt;/code>&lt;/td>
+&lt;td style="text-align: left">&lt;code>desktop first&lt;/code>&lt;/td>
+&lt;td style="text-align: left">&lt;code>IOs&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/IT.gif"
+width="1434"
+height="812"
+loading="lazy"
+alt="Iteration"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="423px"
+>
+&lt;/p>
+&lt;h2 id="step-5-test">Step 5: Test&lt;/h2>
+&lt;p>Description of step 5&amp;hellip;
+Content related to step 5.&lt;/p>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS_hu18140087041934850276.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS_hu2211415514296509609.jpg 1024w"
+loading="lazy"
+alt="Design studio"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS2.jpg"
+width="1920"
+height="1080"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS2_hu2152341896893044334.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/DS2_hu11953467836026461698.jpg 1024w"
+loading="lazy"
+alt="Sketches"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>
+&lt;/p>
+&lt;h2 id="survey">Survey&lt;/h2>
+&lt;p>Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Participants&lt;/th>
+&lt;th style="text-align: left">Seniority&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">Bob&lt;/td>
+&lt;td style="text-align: left">27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">Alice&lt;/td>
+&lt;td style="text-align: left">23&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="inline-markdown-within-tables">Inline Markdown within tables&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Italics&lt;/th>
+&lt;th style="text-align: left">Bold&lt;/th>
+&lt;th style="text-align: left">Code&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;em>italics&lt;/em>&lt;/td>
+&lt;td style="text-align: left">&lt;strong>bold&lt;/strong>&lt;/td>
+&lt;td style="text-align: left">&lt;code>code&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="syntax">Syntax&lt;/h2>
+&lt;div class="codeblock">
+&lt;header>
+&lt;span class="codeblock-lang">markdown&lt;/span>
+&lt;button
+class="codeblock-copy"
+data-id="codeblock-id-0"
+data-copied-text="Copied!"
+>
+Copy
+&lt;/button>
+&lt;/header>
+&lt;code id="codeblock-id-0" style="display:none;">![Image 1](1.jpg) ![Image 2](2.jpg)&lt;/code>&lt;div class="">&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Image 1&lt;/span>](&lt;span class="na">1.jpg&lt;/span>) ![&lt;span class="nt">Image 2&lt;/span>](&lt;span class="na">2.jpg&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/div>&lt;/div>
+&lt;h2 id="result">Result&lt;/h2>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/1.jpg"
+width="2000"
+height="1400"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/1_hu4574578169203714971.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/1_hu9042511268598201431.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="142"
+data-flex-basis="342px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/2.jpg"
+width="1500"
+height="2250"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/2_hu10699635480308914167.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/2_hu1741040415904021193.jpg 1024w"
+loading="lazy"
+alt="Image 2"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+>
+&lt;/p>
+&lt;h2 id="trying-gif">Trying gif&lt;/h2>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/ba-learn/IT.gif"
+width="1434"
+height="812"
+loading="lazy"
+alt="Iteration"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="423px"
+>
+&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@mymind" target="_blank" rel="noopener"
+>mymind&lt;/a> and &lt;a class="link" href="https://unsplash.com/@lukechesser" target="_blank" rel="noopener"
+>Luke Chesser&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p>
+&lt;p>For more information about this theme, check the documentation: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+>https://stack.jimmycai.com/&lt;/a>&lt;/p>
+&lt;p>Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+>hugo-theme-stack-stater&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+>Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Decision Tracking for Regulated Industries</title><link>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/</link><pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate><guid>https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/</guid><description>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/2.jpg" alt="Featured image of post Decision Tracking for Regulated Industries" />&lt;p>Hugo theme Stack supports the creation of interactive image galleries using Markdown. It&amp;rsquo;s powered by &lt;a class="link" href="https://photoswipe.com/" target="_blank" rel="noopener"
+>PhotoSwipe&lt;/a> and its syntax was inspired by &lt;a class="link" href="https://typlog.com/" target="_blank" rel="noopener"
+>Typlog&lt;/a>.&lt;/p>
+&lt;p>To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo&amp;rsquo;s page bundle feature to read the dimensions of the image. &lt;strong>External images are not supported.&lt;/strong>&lt;/p>
+&lt;h2 id="syntax">Syntax&lt;/h2>
+&lt;div class="codeblock">
+&lt;header>
+&lt;span class="codeblock-lang">markdown&lt;/span>
+&lt;button
+class="codeblock-copy"
+data-id="codeblock-id-0"
+data-copied-text="Copied!"
+>
+Copy
+&lt;/button>
+&lt;/header>
+&lt;code id="codeblock-id-0" style="display:none;">![Image 1](1.jpg) ![Image 2](2.jpg)&lt;/code>&lt;div class="">&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Image 1&lt;/span>](&lt;span class="na">1.jpg&lt;/span>) ![&lt;span class="nt">Image 2&lt;/span>](&lt;span class="na">2.jpg&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/div>&lt;/div>
+&lt;h2 id="result">Result&lt;/h2>
+&lt;p>&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/1.jpg"
+width="2000"
+height="1400"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/1_hu4574578169203714971.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/1_hu9042511268598201431.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="142"
+data-flex-basis="342px"
+>
+&lt;img src="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/2.jpg"
+width="1500"
+height="2250"
+srcset="https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/2_hu10699635480308914167.jpg 480w, https://ideal-trout-x46p64gxwp9hpjgx.github.dev/p/decision-tracking-for-regulated-industries/2_hu1741040415904021193.jpg 1024w"
+loading="lazy"
+alt="Image 2"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+>
+&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@mymind" target="_blank" rel="noopener"
+>mymind&lt;/a> and &lt;a class="link" href="https://unsplash.com/@lukechesser" target="_blank" rel="noopener"
+>Luke Chesser&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item></channel></rss>
