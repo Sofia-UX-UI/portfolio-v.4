@@ -6,10 +6,10 @@ tags:
     - user research
   
 categories:
-    - user research
+    - User research
     - Python
     - AI
-    - development
+    - Development
 
 ---
 - themes

@@ -4,10 +4,10 @@ description: Developing an internal tool to support decision-making processes.
 date: 2023-08-26 00:00:00+0000
 image: 2.jpg
 categories: 
-    - user research
-    - market analysis
+    - User research
+    - Market analysis
     - Figma prototype
-    - regulated industries
+    - User testing
 ---
 
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).

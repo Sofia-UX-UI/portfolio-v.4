@@ -5,8 +5,8 @@ slug: BA-learn
 date: 2024-04-15 00:00:00+0000
 image: 1.jpg
 categories:
-    - design system
-    - user research
+    - Design system
+    - User research
     - Figma prototype
     - AI
 tags:

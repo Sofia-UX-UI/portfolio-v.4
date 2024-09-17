@@ -4,10 +4,10 @@ description: Creating an engaging, language-based game from concept to launch.
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
 categories:
-    - game design
+    - Game design
     - Unity
-    - language learning
-    - development
+    - Language learning
+    - Development
 ---
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
