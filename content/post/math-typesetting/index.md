@@ -17,6 +17,30 @@ categories:
 
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
 
+<!--## Project overview
+
+Bioacoustics Learn (BL) integrates online repositories to curate technical content for marine and terrestrial bioacousticians, featuring a scalable design system developed with variable parameters for enhanced usability. Community-driven user testing and research informed continuous improvement and iterations.
+
+| Field   | Role     | Duration   |
+| --------  | -------- | ------ |
+| *bioacoustics* | *lead designer*` | `3 months` |
+
+## Project Timeline
+
+The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.
+
+`1 Research: 3 weeks`
+
+`2 Define: 2 weeks`
+
+`3 Ideate: 1 week`
+
+`4 Prototype: 1 month`
+
+`5 Test: 1 week`  
+
+## Step 1: Research-->
+
 **It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
 
 ## Inline math

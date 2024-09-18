@@ -29,6 +29,22 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 | --------  | -------- | ------ |
 | *gaming* | *ux/ui designer*` | `3 months` |
 
+<!--## Project Timeline
+
+The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.
+
+`1 Research: 3 weeks`
+
+`2 Define: 2 weeks`
+
+`3 Ideate: 1 week`
+
+`4 Prototype: 1 month`
+
+`5 Test: 1 week`  
+
+## Step 1: Research-->
+
 <!--## Bilibili video
 
 {{< bilibili "BV1d4411N7zD" >}}
