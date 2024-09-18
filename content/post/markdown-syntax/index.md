@@ -1,6 +1,7 @@
 ---
 title: Enhanced Design Handoff with Chatbot Integration 
 date: 2023-12-07
+image: cover 6.jpg
 description: Improving design handoffs with a Python-generated chatbot.
 tags: 
     - user research
