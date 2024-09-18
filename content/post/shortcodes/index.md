@@ -1,5 +1,6 @@
 ---
-title: Language Game Development 
+
+title: Language Game Development
 description: Creating an engaging, language-based game from concept to launch.
 date: 2024-08-15 00:00:00+0000
 image: cover.jpg
@@ -10,6 +11,7 @@ categories:
     - Language learning
     - Development
 --
+
 Nomad's Notes is a wholesome adventure game that immerses players into a world of language and culture. Embark on a charming adventure as one of the world’s natural travelers to learn new languages, meet delightful characters, and journal your experiences.
 
 For more details, the PC version of the game can be downloaded [here](https://foxracinggurl.itch.io/nomads-notes).
@@ -22,8 +24,7 @@ For more details, the PC version of the game can be downloaded [here](https://fo
 
 Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team member members were: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, Graphic Designer), Sofía Orellano (UX/UI), Ben Watson (Developer).
 
-
-| Field   | Role     | Duration   | 
+| Field   | Role     | Duration   |
 | --------  | -------- | ------ |
 | *gaming* | *ux/ui designer*` | `3 months` |
 
@@ -53,7 +54,7 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 ## Quote
 
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book">}}
+{{< quote author="A famous person" source="The book they wrote" url="<https://en.wikipedia.org/wiki/Book">}}>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {{< /quote >}}
 
