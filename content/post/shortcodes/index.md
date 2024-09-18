@@ -11,6 +11,7 @@ categories:
     - Language learning
     - Development
 --
+# Project overview
 
 Nomad's Notes is a wholesome adventure game that immerses players into a world of language and culture. Embark on a charming adventure as one of the world’s natural travelers to learn new languages, meet delightful characters, and journal your experiences.
 
