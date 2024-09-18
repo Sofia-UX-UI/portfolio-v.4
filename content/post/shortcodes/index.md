@@ -9,9 +9,14 @@ categories:
     - Unity
     - Language learning
     - Development
----
+--
+Nomad's notes is a collaborative project created as a joint between indie game developers and user experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment.
 
-For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
+For more details, the PC version of the game can be downloaded [here](https://foxracinggurl.itch.io/nomads-notes).
+
+## Game Runthrough
+
+{{< youtube "lWBQpBwquPE" >}}
 
 <!--## Bilibili video
 
@@ -24,10 +29,6 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 ## YouTube video
 
 <{{< youtube "p8bhL8u0jNM" >}}-->
-
-## Game Runthrough
-
-{{< youtube "lWBQpBwquPE" >}}
 
 <!--## Generic video file
 
