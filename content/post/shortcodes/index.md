@@ -1,5 +1,4 @@
 ---
-
 title: Language Game Development
 description: Creating an engaging, language-based game from concept to launch.
 date: 2024-08-15 00:00:00+0000
@@ -23,6 +22,10 @@ For more details, the PC version of the game can be downloaded [here](https://fo
 ## Project overview
 
 Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team member members were: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, Graphic Designer), Sofía Orellano (UX/UI), Ben Watson (Developer).
+
+| Field   | Role     | Duration   |
+| --------  | -------- | ------ |
+| *gaming* | *ux/ui designer*` | `3 months` |
 
 <!--## Bilibili video
 
