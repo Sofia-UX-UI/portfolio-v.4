@@ -2,6 +2,7 @@
 title: Character Generation with Image Stabilization 
 description: Building a character generator with dynamic image stabilization.
 date: 2024-07-24 00:00:00+0000
+image: cover 4.jpg
 math: true
 categories:
     - User research
