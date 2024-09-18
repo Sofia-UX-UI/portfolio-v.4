@@ -10,13 +10,22 @@ categories:
     - Language learning
     - Development
 --
-Nomad's notes is a collaborative project created as a joint between indie game developers and user experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment.
+Nomad's Notes is a wholesome adventure game that immerses players into a world of language and culture. Embark on a charming adventure as one of the world’s natural travelers to learn new languages, meet delightful characters, and journal your experiences.
 
 For more details, the PC version of the game can be downloaded [here](https://foxracinggurl.itch.io/nomads-notes).
 
 ## Game Runthrough
 
 {{< youtube "lWBQpBwquPE" >}}
+
+## Project overview
+
+Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team member members were: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, Graphic Designer), Sofía Orellano (UX/UI), Ben Watson (Developer).
+
+
+| Field   | Role     | Duration   | 
+| --------  | -------- | ------ |
+| *gaming* | *ux/ui designer*` | `3 months` |
 
 <!--## Bilibili video
 
