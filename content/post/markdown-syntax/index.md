@@ -31,9 +31,13 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 # H1
 
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 ## Paragraph
@@ -64,6 +68,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
    Name | Age
 --------|------
+
     Bob | 27
   Alice | 23
 
@@ -78,6 +83,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
 
 ## Code Blocks
+
 ### Code block with backticks
 
 ```html
@@ -132,19 +138,19 @@ rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
 
 ### Unordered List
 
-* List item
-* Another item
-* And another item
+- List item
+- Another item
+- And another item
 
 ### Nested list
 
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
+- Fruit
+  - Apple
+  - Orange
+  - Banana
+- Dairy
+  - Milk
+  - Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 

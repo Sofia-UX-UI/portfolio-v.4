@@ -1,6 +1,5 @@
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-
 # Hugo Theme Stack Starter Template
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
@@ -39,7 +38,7 @@ hugo mod tidy
 
 ## Deploy to another static page hostings
 
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
+If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine.
 
 <details>
   <summary>Vercel</summary>
