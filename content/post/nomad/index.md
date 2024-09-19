@@ -30,21 +30,21 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 <!--## Project Timeline & my contribution
 
-As a collaborative project, the division of tasks mainly followed each area of expertise. Therefore, user research, academic research, market analysis, user validation and user testing were conducted by the User Experience Designers while the gaming concept, art and development, was led by the Indie Game Developers. 
+As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing. 
 
-`1 Initial Research and Planning: 2 weeks`
+`1 Initial Research and Planning: team coordination, project setup, communication management`
 
-`2 Ideation and Concept Development: 2 weeks`
+`2 Ideation and Concept Development: ideation facilitation, concept refinement`
 
-`3 Research: 2 weeks`
+`3 Research: academic research, user insights`
 
-`4 Define: 2 weeks`
+`4 Define: mapping and market analysis`
 
-`5 Game Design & Mechanics: 6 weeks`
+`5 Game Design & Mechanics: information Architecture, prototypying & interaction`
 
-`4 Pitch Preparation: 2 weeks`
+`4 Pitch Preparation: market focus`
 
-`5 User Testing & Feedback: 1 week`  
+`5 User Testing & Feedback: creation and data analysis`  
 
 ## Step 1: Initial Research and Planning
 
@@ -59,13 +59,17 @@ The initial planning phase included team-building activities to help us understa
 
 ## Step 2: Ideation and Concept Development
 
-We conducted a rapid, asynchronous ideation session using a Miro board to collaboratively explore potential directions for the project. After the initial brainstorming round, we followed up with a second round of voting, which helped us narrow down and select the final concept: designing a language learning game.
+We conducted a rapid, asynchronous ideation session using a Miro board to collaboratively explore potential directions for the project. After the initial brainstorming round, we followed up with a second round of voting, which helped us narrow down and select the final concept: designing a language learning game. 
 
 For more details, the Miro Board can be viewed [here](https://miro.com/app/board/uXjVKCIC-pQ=/).
 
 ## Steps 3 & 4: Research and Define
 
-Research was conducted across three key areas to identify market gaps, understand industry trends, and explore effective learning paths. The first area focused on market research, aiming to uncover unmet needs and analyze current offerings. User research was also carried out to understand player preferences, behaviors, and motivations, ensuring a connection with users and their expectations. Lastly, academic research examined the most effective language-learning techniques and recent applications. The ultimate goal was to innovate and create something of real value that not only resonated with users but also provided a unique experience they couldn’t easily find elsewhere.
+Research was conducted across three key areas to identify market gaps, understand industry trends, and explore effective learning paths. I led the academic research, examining effective language-learning techniques and recent applications. I also conducted user interviews and distributed surveys to understand player preferences, behaviors, and motivations, ensuring a strong connection with our target users.
+
+Market research was another major focus, where I analyzed current offerings and uncovered unmet needs. This included conducting an affinity analysis to identify patterns in both language-learning apps and educational games. In addition, I interviewed an industry expert to gather insights that informed our pitch preparation.
+
+The ultimate goal was to innovate and create something of real value that resonated with users, while providing a unique experience they couldn’t easily find elsewhere.
 
 ![Audience](6.jpeg) ![Why language learning](7.jpeg) ![Patterns identified in apps](8.jpeg) ![Patterns identified in learning games](9.jpeg)
 
