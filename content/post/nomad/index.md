@@ -85,8 +85,7 @@ In response, I expanded the market research, analyzing multiple sources such as 
 
 To validate the concept and using the pitch practise as a reference, we created a User validation form and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research. 
 
-The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo, followed by
-On the 
+The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo.
 
 <!--## Bilibili video
 
