@@ -32,21 +32,32 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 As a collaborative project, the division of tasks mainly followed each area of expertise. Therefore, user research, academic research, market analysis, user validation and user testing were conducted by the User Experience Designers while the gaming concept, art and development, was led by the Indie Game Developers. 
 
-`1 Quick off: 2 weeks`
+`1 Initial Research and Planning: 2 weeks`
 
-`2 Ideation: 2 weeks`
+`2 Ideation and Concept Development: 2 weeks`
 
 `3 Research: 3 weeks`
 
 `4 Define: 2 weeks`
 
-`5 Game design & mechanics: 1 week`
+`5 Game Design & Mechanics: 1 week`
 
-`4 Pitch: 3 weeks`
+`4 Pitch Preparation: 3 weeks`
 
-`5 Test: 1 week`  
+`5 User Testing & Feedback: 1 week`  
 
-## Step 1: Research-->
+## Step 1: Initial Research and Planning
+
+As we were in multiple time zones with a 5-hour difference, it was important to carefully decide on which collaborative tools would best for us. Initial planning also involved getting to know each other as team members to help us later decide which project to continue. One of the initial discussions was related to creating an app with gamified aspects or a game. As the developers had no experience creating apps and the project timeline was tight we decided as a group to create a game so that we didn't lose time with the learning curve involved.
+
+| Code repository   | Project management     | Communication   | Design | Development | Cloud | Coding |
+| --------  | -------- | ------ | ------ |
+| *Github* | *Jira* | *Discord* | *Figma, Adobe suite, Miro* | *Unity, Procreate, Inkle* | *One Drive* | *Visual Studio Code* |
+
+For more details, the Miro Board can be visualized [here](https://foxracinggurl.itch.io/nomads-notes). 
+
+Version Control / Code Repository: GitHub
+
 
 <!--## Bilibili video
 
