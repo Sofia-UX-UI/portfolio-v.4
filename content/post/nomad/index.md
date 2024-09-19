@@ -87,7 +87,7 @@ In response, I expanded the market research, analyzing multiple sources such as 
 
 ## Steps 6: User testing
 
-To validate the concept and using the pitch practise as a reference, we created a User validation form and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research. 
+To validate the concept and using the pitch practise as a reference, we created a [User validation form](https://docs.google.com/forms/d/e/1FAIpQLSeG2cV8M9Th-uazXBfynRTGvkK0BwlurVRDz1wtnA_jUrZkUw/viewform) and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research. 
 
 The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo.
 
