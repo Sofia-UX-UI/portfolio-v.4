@@ -73,7 +73,7 @@ While the Indie Game Developers led this step, it was a valuable opportunity for
 
 Localization and narrative development were other key areas where I contributed. Based on survey results, we chose to create a Spanish-learning experience, starting with Valencia as the first in-game destination. I wrote the character dialogue for a coffee shop scene and collaborated with native Spanish speakers for voice-overs. This native input brought an added layer of authenticity, enriching both the language learning and cultural experience for players. 
 
-[Design pillars](8.jpeg)![Game settings and accesibility](9.jpeg)
+[Design pillars](14.jpeg)![Game settings and accesibility](19.jpeg)
 
 ## Steps 5: Pitch preparation
 
