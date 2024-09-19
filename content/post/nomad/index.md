@@ -61,9 +61,10 @@ We conducted a rapid, asynchronous ideation session using a Miro board to collab
 
 For more details, the Miro Board can be viewed [here](https://miro.com/app/board/uXjVKCIC-pQ=/).
 
-## Step 3: Research
+## Steps 3 & 4: Research and Define
 
 Research was conducted across three key areas to identify market gaps, understand industry trends, and explore effective learning paths. The first area focused on market research, aiming to uncover unmet needs and analyze current offerings. User research was also carried out to understand player preferences, behaviors, and motivations, ensuring a connection with users and their expectations. Lastly, academic research examined the most effective language-learning techniques and recent applications. The ultimate goal was to innovate and create something of real value that not only resonated with users but also provided a unique experience they couldn’t easily find elsewhere.
+ 
 
 <!--## Bilibili video
 
