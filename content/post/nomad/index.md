@@ -28,7 +28,7 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 | --------  | -------- | ------ |
 | *gaming* | *ux/ui designer*` | `3 months` |
 
-<!--## Project Timeline
+<!--## Project Timeline & my contribution
 
 As a collaborative project, the division of tasks mainly followed each area of expertise. Therefore, user research, academic research, market analysis, user validation and user testing were conducted by the User Experience Designers while the gaming concept, art and development, was led by the Indie Game Developers. 
 
@@ -48,7 +48,9 @@ As a collaborative project, the division of tasks mainly followed each area of e
 
 ## Step 1: Initial Research and Planning
 
-Given the 5-hour time zone difference, it was crucial to carefully select collaborative tools that would enable seamless communication and coordination. The initial planning phase also involved team-building activities to help us understand each member's strengths, which informed decisions about project direction and performance goals for each stage. Early discussions centered around whether to develop a gamified app or a full game. Since the developers had limited experience with app development and the timeline was tight, we collectively decided to focus on creating a game to avoid potential delays from the learning curve.
+Given the 5-hour time zone difference, it was crucial to carefully select collaborative tools that would enable seamless communication and coordination. My contribution during this stage involved setting up the initial meetings, helping to establish a comfortable environment for the team, and ensuring smooth communication across time zones. I also created the GitHub repository to manage the project’s codebase and established the first project charter, outlining performance goals, expected outcomes, and a high-level timeline for the weeks ahead.
+
+The initial planning phase included team-building activities to help us understand each member's strengths, which informed decisions about project direction and goals for each stage. Early discussions centered around whether to develop a gamified app or a full game. Since the developers had limited experience with app development and the timeline was tight, we collectively decided to focus on creating a game to avoid potential delays from the learning curve.
 
 | Code repository   | Project management     | Communication   | Design | Development | Cloud | Coding |
 | --------  | -------- | ------ | ------ |
