@@ -48,17 +48,18 @@ As a collaborative project, the division of tasks mainly followed each area of e
 
 ## Step 1: Initial Research and Planning
 
-As we were in multiple time zones with a 5-hour difference, it was important to carefully decide on which collaborative tools would best for us. Initial planning also involved getting to know each other as team members to help us later decide which project to continue. One of the initial discussions was related to creating an app with gamified aspects or a game. As the developers had no experience creating apps and the project timeline was tight we decided as a group to create a game so that we didn't lose time with the learning curve involved.
+Given the 5-hour time zone difference, it was crucial to carefully select collaborative tools that would enable seamless communication and coordination. The initial planning phase also involved team-building activities to help us understand each member's strengths, which informed decisions about project direction and performance goals for each stage. Early discussions centered around whether to develop a gamified app or a full game. Since the developers had limited experience with app development and the timeline was tight, we collectively decided to focus on creating a game to avoid potential delays from the learning curve.
 
 | Code repository   | Project management     | Communication   | Design | Development | Cloud | Coding |
 | --------  | -------- | ------ | ------ |
 | *Github* | *Jira* | *Discord* | *Figma, Adobe suite, Miro* | *Unity, Procreate, Inkle* | *One Drive* | *Visual Studio Code* |
-
-For more details, the Miro Board can be visualized [here](https://foxracinggurl.itch.io/nomads-notes). 
+ 
 
 ## Step 2: Ideation and Concept Development
 
-A rapid asynchronous ideation took place in a Miro board to start deciding as a group some direction. After the first round another round helped us decide by voting on a final concept of designing a language learning game.
+We conducted a rapid, asynchronous ideation session using a Miro board to collaboratively explore potential directions for the project. After the initial brainstorming round, we followed up with a second round of voting, which helped us narrow down and select the final concept: designing a language learning game.
+
+For more details, the Miro Board can be viewed [here](https://miro.com/app/board/uXjVKCIC-pQ=/).
 
 ## Step 3: Research
 
