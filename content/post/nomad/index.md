@@ -73,7 +73,7 @@ While the Indie Game Developers led this step, it was a valuable opportunity for
 
 Localization and narrative development were other key areas where I contributed. Based on survey results, we chose to create a Spanish-learning experience, starting with Valencia as the first in-game destination. I wrote the character dialogue for a coffee shop scene and collaborated with native Spanish speakers for voice-overs. This native input brought an added layer of authenticity, enriching both the language learning and cultural experience for players. 
 
-[Design pillars](14.jpeg)![Game settings and accesibility](19.jpeg)
+[Design pillars](14.jpeg)![Game settings and accesibility](19.jpeg) ![What makes Nomad's notes unique](19.jpeg) 
 
 ## Steps 5: Pitch preparation
 
@@ -88,6 +88,8 @@ In response, I expanded the market research, analyzing multiple sources such as 
 To validate the concept and using the pitch practise as a reference, we created a User validation form and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research. 
 
 The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo.
+
+[Future development](26.jpeg)![Future development](27.jpeg)
 
 ## Quote
 
