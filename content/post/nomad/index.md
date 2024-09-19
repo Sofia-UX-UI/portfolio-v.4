@@ -89,30 +89,6 @@ To validate the concept and using the pitch practise as a reference, we created 
 
 The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo.
 
-<!--## Bilibili video
-
-{{< bilibili "BV1d4411N7zD" >}}
-
-## Tencent video
-
-{{< tencent "g0014r3khdw" >}}
-
-## YouTube video
-
-<{{< youtube "p8bhL8u0jNM" >}}-->
-
-<!--## Generic video file
-
-{{< video "https://www.w3schools.com/tags/movie.mp4" >}}
-
-## Gist
-
-{{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}
-
-## GitLab
-
-{{< gitlab 2589724 >}}-->
-
 ## Quote
 
 {{< quote author="A famous person" source="The book they wrote" url="<https://en.wikipedia.org/wiki/Book">}}>
