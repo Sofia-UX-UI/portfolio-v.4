@@ -1,5 +1,4 @@
 ---
-
 title: Language Game Development
 description: Creating an engaging, language-based game from concept to launch.
 date: 2024-08-15 00:00:00+0000
@@ -11,7 +10,7 @@ categories:
     - Language learning
     - Development
 --
-# Project overview
+# Game concept and Experience
 
 Nomad's Notes is a wholesome adventure game that immerses players into a world of language and culture. Embark on a charming adventure as one of the world’s natural travelers to learn new languages, meet delightful characters, and journal your experiences.
 
@@ -21,9 +20,9 @@ For more details, the PC version of the game can be downloaded [here](https://fo
 
 {{< youtube "lWBQpBwquPE" >}}
 
-## Project overview
+## Project Overview
 
-Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team member members were: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, Graphic Designer), Sofía Orellano (UX/UI), Ben Watson (Developer).
+Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team member members were: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, UX/UI), Sofía Orellano (UX/UI, Localization), Ben Watson (Developer).
 
 | Field   | Role     | Duration   |
 | --------  | -------- | ------ |
@@ -31,15 +30,19 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 <!--## Project Timeline
 
-The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.
+As a collaborative project, the division of tasks mainly followed each area of expertise. Therefore, user research, academic research, market analysis, user validation and user testing were conducted by the User Experience Designers while the gaming concept, art and development, was led by the Indie Game Developers. 
 
-`1 Research: 3 weeks`
+`1 Quick off: 2 weeks`
 
-`2 Define: 2 weeks`
+`2 Ideation: 2 weeks`
 
-`3 Ideate: 1 week`
+`3 Research: 3 weeks`
 
-`4 Prototype: 1 month`
+`4 Define: 2 weeks`
+
+`5 Game design & mechanics: 1 week`
+
+`4 Pitch: 3 weeks`
 
 `5 Test: 1 week`  
 
