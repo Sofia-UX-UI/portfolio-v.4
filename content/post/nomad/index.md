@@ -67,6 +67,16 @@ Research was conducted across three key areas to identify market gaps, understan
 
 ![Audience](6.jpeg) ![Why language learning](7.jpeg) ![Patterns identified in apps](8.jpeg) ![Patterns identified in learning games](9.jpeg)
 
+## Steps 5: Game Design & Mechanics
+
+Though this step was primarily conducted by the Indie Game Developers, it was an excellent opportunity to collaborate and understand more about game mechanics. My collaboration came through the Menu design which was created following accessibility guidelines. There were some iterations to match the art style of Nomad's notes.
+
+The localization and narrative was another great point to collaborate since we decided to create the slice of the game for leaning Spanish, driven by the survey results. As a result, I contacted some friends from Spain and we decided for Valencia as the first visit. After that I created the dialogue of the characters in the coffee shop and asked some friends for voice overs. Including a native perspective into the game added valuable and genuine aspect to the game. 
+
+## Steps 5: Pitch preparation
+
+Pitch preparation involved presenting the project to an expert gaming panel that gaves us feedback on the investors pitch and the presentation of the game. The result was mainly positive and we took all the feedback to improve the game afterwards.
+
 <!--## Bilibili video
 
 {{< bilibili "BV1d4411N7zD" >}}
