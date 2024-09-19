@@ -69,13 +69,24 @@ Research was conducted across three key areas to identify market gaps, understan
 
 ## Steps 5: Game Design & Mechanics
 
-Though this step was primarily conducted by the Indie Game Developers, it was an excellent opportunity to collaborate and understand more about game mechanics. My collaboration came through the Menu design which was created following accessibility guidelines. There were some iterations to match the art style of Nomad's notes.
+While the Indie Game Developers led this step, it was a valuable opportunity for collaboration, particularly in game mechanics and user experience. My contribution focused on the information architecture and menu design, ensuring both were aligned with accessibility guidelines. I also worked on the navigation and interaction features within the in-game journal, enhancing the user experience by making it intuitive and engaging. Several iterations were made to ensure that these elements matched the art style and overall tone of Nomad’s Notes.
 
-The localization and narrative was another great point to collaborate since we decided to create the slice of the game for leaning Spanish, driven by the survey results. As a result, I contacted some friends from Spain and we decided for Valencia as the first visit. After that I created the dialogue of the characters in the coffee shop and asked some friends for voice overs. Including a native perspective into the game added valuable and genuine aspect to the game. 
+Localization and narrative development were other key areas where I contributed. Based on survey results, we chose to create a Spanish-learning experience, starting with Valencia as the first in-game destination. I wrote the character dialogue for a coffee shop scene and collaborated with native Spanish speakers for voice-overs. This native input brought an added layer of authenticity, enriching both the language learning and cultural experience for players. 
 
 ## Steps 5: Pitch preparation
 
-Pitch preparation involved presenting the project to an expert gaming panel that gaves us feedback on the investors pitch and the presentation of the game. The result was mainly positive and we took all the feedback to improve the game afterwards.
+{{< youtube "p8bhL8u0jNM" >}}
+
+Preparing the pitch involved presenting our project to an expert gaming panel, where we received valuable feedback on both the investor pitch and the overall presentation of the game. The feedback was largely positive, with key suggestions focusing on refining the pitch by including data sources to avoid distracting investors and improving character design to differentiate from Duolingo (which also featured birds).
+
+In response, I expanded the market research, analyzing multiple sources such as Nasdaq, Video Games Insights, Statista, and McKinsey. To further distinguish our game from Duolingo, I explored various design approaches—switching character colors, adding accessories, and embracing diversity by incorporating different creatures, such as bees and other animals, to create a more unique and inclusive cast.
+
+## Steps 6: User testing
+
+To validate the concept and using the pitch practise as a reference, we created a User validation form and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research. 
+
+The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo, followed by
+On the 
 
 <!--## Bilibili video
 
