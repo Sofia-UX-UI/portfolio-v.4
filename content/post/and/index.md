@@ -9,7 +9,10 @@ categories:
     - Figma prototype
     - User testing
 ---
-<!--## Project overview
+
+## Project overview
+
+{{< youtube "9xtPSa7Raic" >}}
 
 Bioacoustics Learn (BL) integrates online repositories to curate technical content for marine and terrestrial bioacousticians, featuring a scalable design system developed with variable parameters for enhanced usability. Community-driven user testing and research informed continuous improvement and iterations.
 
