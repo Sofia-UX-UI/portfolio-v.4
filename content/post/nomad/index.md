@@ -1,15 +1,22 @@
 ---
+
 title: Language Game Development
+
 description: Creating an engaging, language-based game from concept to launch.
+
 date: 2024-08-15 00:00:00+0000
+
 image: cover.jpg
+
 categories:
+
     - Game design
     - Market research
     - Unity
     - Language learning
     - Development
 --
+
 # Game concept and Experience
 
 Nomad's Notes is a wholesome adventure game that immerses players into a world of language and culture. Embark on a charming adventure as one of the world’s natural travelers to learn new languages, meet delightful characters, and journal your experiences.
@@ -30,7 +37,7 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 <!--## Project Timeline & my contribution
 
-As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing. 
+As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing.
 
 `1 Initial Research and Planning (2 weeks): team coordination, project setup, communication management`
 
@@ -55,11 +62,10 @@ The initial planning phase included team-building activities to help us understa
 | Code repository   | Project management     | Communication   | Design | Development | Cloud | Coding |
 | --------  | -------- | ------ | ------ |
 | *Github* | *Jira* | *Discord* | *Figma, Adobe suite, Miro* | *Unity, Procreate, Inkle* | *One Drive* | *Visual Studio Code* |
- 
 
 ## Step 2: Ideation and Concept Development
 
-We conducted a rapid, asynchronous ideation session using a Miro board to collaboratively explore potential directions for the project. After the initial brainstorming round, we followed up with a second round of voting, which helped us narrow down and select the final concept: designing a language learning game. 
+We conducted a rapid, asynchronous ideation session using a Miro board to collaboratively explore potential directions for the project. After the initial brainstorming round, we followed up with a second round of voting, which helped us narrow down and select the final concept: designing a language learning game.
 
 For more details, the Miro Board can be viewed [here](https://miro.com/app/board/uXjVKCIC-pQ=/).
 
@@ -77,9 +83,9 @@ The ultimate goal was to innovate and create something of real value that resona
 
 While the Indie Game Developers led this step, it was a valuable opportunity for collaboration, particularly in game mechanics and user experience. My contribution focused on the information architecture and menu design, ensuring both were aligned with accessibility guidelines. I also worked on the navigation and interaction features within the in-game journal, enhancing the user experience by making it intuitive and engaging. Several iterations were made to ensure that these elements matched the art style and overall tone of Nomad’s Notes.
 
-Localization and narrative development were other key areas where I contributed. Based on survey results, we chose to create a Spanish-learning experience, starting with Valencia as the first in-game destination. I wrote the character dialogue for a coffee shop scene and collaborated with native Spanish speakers for voice-overs. This native input brought an added layer of authenticity, enriching both the language learning and cultural experience for players. 
+Localization and narrative development were other key areas where I contributed. Based on survey results, we chose to create a Spanish-learning experience, starting with Valencia as the first in-game destination. I wrote the character dialogue for a coffee shop scene and collaborated with native Spanish speakers for voice-overs. This native input brought an added layer of authenticity, enriching both the language learning and cultural experience for players.
 
-[Design pillars](14.jpeg)![Game settings and accesibility](19.jpeg) ![What makes Nomad's notes unique](19.jpeg) 
+[Design pillars](14.jpeg)![Game settings and accesibility](19.jpeg) ![What makes Nomad's notes unique](19.jpeg)
 
 ## Steps 5: Pitch preparation
 
@@ -99,13 +105,13 @@ The results from the user validation form indicated that our user sample followe
 
 ## Quote
 
-{{< quote author="A famous person" source="The book they wrote" url="<https://en.wikipedia.org/wiki/Book">}}>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< quote author="Matty McGrory" source="Assessment feedback" url="<https://www.falmouth.ac.uk/news/interview-matty-mcgrory-module-leader-ma-indie-game-development-online">}}>
+This is one of the best presentations I've seen when it comes to the Market Research, both in terms of how the market research was conducted, but more importantly, how it was applied. It is clear that the market research has been done with a genuine curiousity for learning about what users would actually want, and those learnings have been directly applied to the end product to create something that would have appeal.
+The demo is very well polished and gives a good representation of what the end user would expect, which is a great for a publisher/investor. The art is cohesive throughout including the characters and environments, and has been designed in a way that makes it fun to explore. There is a good balance between language learning and cultural exploration, and the way the language is expressed in the demo feels like a natural way to immerse. Spanish words and sentences are presented in a variety of ways which keeps things interesting and would help users who have different learning styles. The journal helps to solidfy the activities and for the full game, would provide a natural resting point for the player to evaluate their learnings and stop playing for the day. I can see how players would use this game in a cyclical manner.
 {{< /quote >}}
 
 -----
 
 > Photo by [Codioful](https://unsplash.com/@codioful) on [Unsplash](https://unsplash.com/photos/WDSN62Qdxuk)
 
-
-[def]: 6.jpeg
+[def]:6.jpeg
