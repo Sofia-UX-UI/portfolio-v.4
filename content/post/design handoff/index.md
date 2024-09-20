@@ -14,6 +14,7 @@ categories:
     - Development
 
 ---
+![Handbot Interface](Devbot.png)
 ## Project overview
 
 This case study is based on the paper "Code Search Role in Mitigating Divergences in Software Design: A UX Perspective", which is currently under review. The co-authors of the paper are Luca Di Grazia and Chengcheng Qu.
@@ -43,6 +44,16 @@ We employed a mixed-methods approach:
 - Quantitative: A survey was distributed to gather broader insights on how professionals utilize code search and where current tools fall short.
 - Research Questions: Key questions included, “How does code search impact collaboration between UX designers and developers?” and “What improvements are needed to better integrate design handoff in software development?”
 
+| **Aspect**            | **Details**                                                                                                                                                       | **Motivation**                                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Approach**          | Mixed-methods approach combining qualitative interviews and quantitative surveys.                                                                                  | Provides a comprehensive analysis by integrating depth (qualitative) and breadth (quantitative).                   |
+| **Inclusion Criteria** | Targeted UX practitioners, developers, product managers, and ML practitioners.                                                                                     | Ensures diverse perspectives from key roles involved in design handoff.                                            |
+| **Recruitment**       | Utilized LinkedIn, Survey Circle, academic networks, and social media (Lunch Club). Contacted UK and global participants.                                           | Aims for diverse representation and broad reach to gather comprehensive insights.                                  |
+| **Response**          | 60 professionals invited, 21 responded to the survey, 9 participated in interviews.                                                                                 | Recruitment strategies aimed to build a diverse sample, though the final sample size was smaller.                  |
+| **Data Collection**   | Survey conducted via Google Forms; interviews recorded and transcribed on OneDrive. Data stored securely and deleted after one year.                                 | Ensures secure handling of data and compliance with ethical guidelines.                                            |
+| **Data Analysis**     | Hybrid thematic analysis with deductive and inductive coding. Charts created in Google Sheets; semi-automated coding with Alpha.                                    | Provides a systematic and detailed examination of both quantitative and qualitative data.                          |
+| **Ethics**            | Information sheet provided, informed consent obtained. Survey and interview participants informed of study purpose, rights, and confidentiality.                    | Protects participants' rights and ensures transparency and ethical compliance in the research process.             |
+
 ## 4. Findings
 
 Our research revealed several important insights:
@@ -56,6 +67,8 @@ Our research revealed several important insights:
 One of the key challenges identified in the study is the variation in code search usage across teams. While 33.3% of participants reported never using code search, the majority (77.7%) used it periodically, reflecting its essential role in the design-to-development handoff. This finding highlights that code search is crucial for both designers and developers, regardless of their background. However, current tools are not optimized for the diverse needs of both professions.
 
 Another challenge was the complexity of integrating AI into the design handoff process. While AI tools like GitHub Copilot have shown transformative potential in retrieving context-specific code, training AI models to handle design-oriented tasks remains an area for improvement. Participants expressed the need for more designer-centric AI applications that can bridge the gap between UX design and development workflows, particularly to resolve handoff issues and reduce ambiguity.
+
+![Maze results](Maze.png)
 
 ## 6. Conclusion
 
@@ -74,7 +87,7 @@ Despite the promising insights, the study also acknowledged its limitations, suc
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
-
+<!--
 # Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
