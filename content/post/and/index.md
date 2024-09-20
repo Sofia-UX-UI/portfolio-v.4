@@ -129,7 +129,7 @@ The project followed the Design Thinking methodology and the Double Diamond mode
 - Organized information for decision card structure and search options, refining complex search features.
 - My contribution: Led the card sorting process, analyzed results, and used them to improve the IA and search functionality.
 
-### Design System & High-Fidelity Prototypes
+### 6. Design System & High-Fidelity Prototypes
 
 **Design System:**
 
@@ -141,7 +141,7 @@ The project followed the Design Thinking methodology and the Double Diamond mode
 - Integrated Atlassian’s design tokens and foundations into the final prototype, refining typography, grids, and components.
 - My contribution: Managed the implementation of the tokens, adhering to Atlassian’s design guidelines.
 
-### Final Outcomes:
+### 7. Final Outcomes
 
 - Developed a seamless decision-tracking plugin integrated with Confluence and Jira.
 - The design iterations, usability tests, and card sorting significantly improved the user experience.
