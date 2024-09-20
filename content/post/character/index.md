@@ -76,13 +76,13 @@ with familiar UI components like navigation rails, dialogs, and buttons, ensurin
 
 ## Step 4: Back-end dev
 
-The backend connected the [Image Stabilization app](https://stability.ai/) and Open AI with the web app that we earlier created. The initial idea was to be able to test it and also to be able to run it locally but it wasn't possible. 
+The back-end was integrated with the [Image Stabilization app](https://stability.ai/) and OpenAI to power the web app. While the initial plan was to run it locally, time constraints prevented full functionality from being achieved during the project timeline.
 
 ## Step 5: Pitch presentation
 
-The pitch presentation was a great way to showcase our project. Unfortunately we couldn't show a demo due to time limitations. The app proved to be successful in achieving their task. The design was one of the highest points of the app given the short time frame to develop it.
+The pitch presentation was a key moment to showcase our project. Although we were unable to provide a live demo due to time limitations, the app successfully demonstrated its potential, with design standing out as one of the project's highlights, especially given the limited time for development.
 
-Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
+<!--Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
 
 **It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
 
