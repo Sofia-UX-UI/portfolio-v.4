@@ -29,7 +29,7 @@ For more details, the PC version of the game can be downloaded [here](https://fo
 
 ## Project Overview
 
-Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team member members were: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, UX/UI), Sofía Orellano (UX/UI, Localization), Ben Watson (Developer).
+Nomad's notes is a collaborative end-to-end game developed as a joint project between Indie Game developers and User Experience master students from Falmouth University. The PC game embraces our cosmopolitan nature offering a combination of language learning and entertainment. The team members are: Jess Bradshaw (Artist, Developer), Kristen Hickey (Illustrator, UX/UI), Sofía Orellano (UX/UI, Localization), Ben Watson (Developer).
 
 | Field   | Role     | Duration   |
 | --------  | -------- | ------ |

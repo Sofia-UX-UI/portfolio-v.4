@@ -7,39 +7,52 @@ math: true
 categories:
     - User research
     - React
-    - AI
-    - development
+    - Generative AI
+    - Development
 ---
+# Concept and Experience
+
+Character Designer is a fine-tuned generative AI tool designed to assist users in creating detailed and high-quality personalized characters.
+
+Our tool addresses this by streamlining the character creation process, generating both character images with image stabilization and narrative backstories through text generation based on user inputs. By fine-tuning the AI with data from trending games, Character Designer ensures the delivery of high-quality images and narratives, helping users bring their creative visions to life efficiently.
+
+For more details, the PC version of the game can be downloaded [here](https://foxracinggurl.itch.io/nomads-notes).
+
+## Web app Runthrough
+
+{{< youtube "YbuVim_n6L4" >}}
+
+## Project Overview
+
+Character Designer is a collaborative web app developed as a final project for AI Encode Bootcamp. The team members are Jesús Vera (Front-end dev), Aleksandar Brayanov (Back-end dev), Sofía Orellano (UX/UI).
+
+| Field   | Role     | Duration   |
+| --------  | -------- | ------ |
+| *Generative AI* | *ux/ui designer*` | `12 weeks` |
+
+<!--## Project Timeline & my contribution
+
+As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing.
+
+`1 Initial Research and Planning (2 weeks): team coordination, project setup, communication management`
+
+`2 Ideation and Concept Development (2 weeks): ideation facilitation, concept refinement`
+
+`3 Research (2 weeks): academic research, user insights`
+
+`4 Define (2 weeks): mapping and market analysis`
+
+`5 Game Design & Mechanics (8 weeks): information Architecture, prototypying & interaction`
+
+`4 Pitch Preparation (2 weeks): market focus`
+
+`5 User Testing & Feedback (1 week): creation and data analysis`  
 
 ## Iterations
 
 {{< youtube "NRleuAFrGPo" >}}
 
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
-
-<!--## Project overview
-
-Bioacoustics Learn (BL) integrates online repositories to curate technical content for marine and terrestrial bioacousticians, featuring a scalable design system developed with variable parameters for enhanced usability. Community-driven user testing and research informed continuous improvement and iterations.
-
-| Field   | Role     | Duration   |
-| --------  | -------- | ------ |
-| *bioacoustics* | *lead designer*` | `3 months` |
-
-## Project Timeline
-
-The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.
-
-`1 Research: 3 weeks`
-
-`2 Define: 2 weeks`
-
-`3 Ideate: 1 week`
-
-`4 Prototype: 1 month`
-
-`5 Test: 1 week`  
-
-## Step 1: Research-->
 
 **It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
 
