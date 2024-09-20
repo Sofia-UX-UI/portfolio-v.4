@@ -34,29 +34,53 @@ Character Designer is a collaborative web app developed as a final project for A
 
 As a joint project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, market analysis, information architecture, prototyping, and user validation.
 
-`1 Topic selection and Planning (1 day): communication, topics proposals`
+`1 User research and Planning (1 day): team communication, research`
 
-`2 Ideation and Concept Development (2 days): ideation facilitation, concept refinement`
+`2 Ideation and Prototyping (4 days): ideation facilitation, user insights`
 
-`3 Prototyping (2 days): academic research, user insights`
+`3 Front-end dev (5 days): communication, iterations`
 
-`4 Front-end dev (5 days): mapping and market analysis`
+`4 Back-end dev (3 days): testing and user validation`
 
-`5 Back-end dev (3 days): information Architecture, prototypying & interaction`
+`5 Pitch Preparation (1 day): process and users feedback`
 
-`4 Pitch Preparation (1 day): market focus`
+## Step 1: Initial User Research and Planning
 
-## Step 1: Initial Research and Planning
+Character Designer was the final project for the AI Bootcamp, organized by Encode Club. After several weeks of collaboration, the team developed a list of potential ideas for the final project contributed by all three members. The concept of a Character Designer was my suggestion, inspired by the potential application of generative AI, which we had been exploring during the bootcamp. It was achievable within the tight time frame, and provided a creative, unique solution.
 
-Character Designer was the final project of the AI Bootcamp, conducted by Encode Club. After working for several weeks jointly with the assigned team we created a list which all the 3 members contributed with different ideas. Being in the same time zone, facilitated the creation of this project greatly. To decide on which topic to focus, we created a list with ideas that later each one of us voted on. The idea of a Character Designer was one of my contributions and came after realizing the potential application of Generative AI knowledge that we had been covering through the bootcamp. It was something that could be achieved in this short time frame, original and creative.
+We conducted initial user research via a [Google form](https://docs.google.com/forms/d/1gTxBcVT3Q-I7QzQCOjJTMczHnDToi5pL4X8JBRK1fOI/edit), targeting illustrators, developers, and creatives in the gaming industry. The research helped us align the project with the actual needs and pain points of users. You can view the analysis [here](https://drive.google.com/file/d/1Nl65jKSN37Ki7pXZGxMXYxzQ0wK7gc6y/view).
 
 | Code repository   | Communication   | Design   | Cloud | Coding |
 | --------  | -------- | ------ | ------ | ------ |
 | *Github* | *Discord* | *Figma* | *Google Drive* | *Visual Studio Code* |
 
-## Iterations
+## Step 2: Ideation and Concept Development
+
+We combined ideation, market research, and prototyping into a fast-paced, iterative process, allowing for continuous validation with team members. The main insights from user research highlighted the importance of customizable traits and backstories, as well as the need for flexible export options (e.g., PNG, JPEG, 3D models). Users also raised ethical concerns around the data used for AI-generated characters. While we couldn't address data sourcing immediately, we designed the tool to accommodate future implementation of ethical sourcing features.
 
 {{< youtube "NRleuAFrGPo" >}}
+
+## Step 3: Front-end dev 
+
+A [Figma file](https://www.figma.com/design/gxO6ixJ5dPMKf3LkQXsXYf/Character-Designer?node-id=137-26145&node-type=canvas&t=Wdg3WbPEXP8VITZd-0) was shared early in the project to initiate discussions about key design elements. To accelerate development, we used Preline UI, an open-source Tailwind CSS components library, and the Material Design library for easy implementation.
+
+The UI featured three main states: the initial dashboard, image generation, and text generation. The UI featured playful, inviting colors like:
+
+<span style="color:#FEDADB">**Soft Peach (FEDADB)**</span>, 
+<span style="color:#E4D9FF">**Lavender Mist (E4D9FF)**</span>, 
+<span style="color:#DDF5DA">**Mint Green (DDF5DA)**</span> 
+
+with familiar UI components like navigation rails, dialogs, and buttons, ensuring an intuitive and user-friendly experience.
+
+![User flow](userflow.png)
+
+## Step 4: Back-end dev
+
+The backend connected the [Image Stabilization app](https://stability.ai/) and Open AI with the web app that we earlier created. The initial idea was to be able to test it and also to be able to run it locally but it wasn't possible. 
+
+## Step 5: Pitch presentation
+
+The pitch presentation was a great way to showcase our project. Unfortunately we couldn't show a demo due to time limitations. The app proved to be successful in achieving their task. The design was one of the highest points of the app given the short time frame to develop it.
 
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
 

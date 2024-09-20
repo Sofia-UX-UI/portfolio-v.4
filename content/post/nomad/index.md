@@ -49,9 +49,9 @@ As a collaborative project, the division of tasks mainly followed each area of e
 
 `5 Game Design & Mechanics (8 weeks): information Architecture, prototypying & interaction`
 
-`4 Pitch Preparation (2 weeks): market focus`
+`6 Pitch Preparation (2 weeks): market focus`
 
-`5 User Testing & Feedback (1 week): creation and data analysis`  
+`7 User Testing & Feedback (1 week): creation and data analysis`  
 
 ## Step 1: Initial Research and Planning
 
@@ -87,7 +87,7 @@ Localization and narrative development were other key areas where I contributed.
 
 [Design pillars](14.jpeg)![Game settings and accesibility](19.jpeg) ![What makes Nomad's notes unique](19.jpeg)
 
-## Steps 5: Pitch preparation
+## Steps 6: Pitch preparation
 
 {{< youtube "p8bhL8u0jNM" >}}
 
@@ -95,7 +95,7 @@ Preparing the pitch involved presenting our project to an expert gaming panel, w
 
 In response, I expanded the market research, analyzing multiple sources such as Nasdaq, Video Games Insights, Statista, and McKinsey. To further distinguish our game from Duolingo, I explored various design approaches—switching character colors, adding accessories, and embracing diversity by incorporating different creatures, such as bees and other animals, to create a more unique and inclusive cast.
 
-## Steps 6: User testing
+## Steps 7: User testing
 
 To validate the concept, we created a [user validation form] (https://docs.google.com/forms/d/e/1FAIpQLSeG2cV8M9Th-uazXBfynRTGvkK0BwlurVRDz1wtnA_jUrZkUw/viewform) and distributed it to a small audience for early feedback on the game’s concept and language-learning features. Additionally, a [user testing form] (https://docs.google.com/forms/d/1Mo_XcGVWYE6tfgvGaDr-gtkredFqT9r_WXiTnyPEdac/edit) was developed to gather input from users playing the game. However, due to time constraints with the development process, there wasn’t enough time to conduct thorough user research. Despite this, user validation revealed strong engagement with the game’s language-learning mechanics, and feedback highlighted the intuitive design and cultural immersion as key strengths.
 
