@@ -26,25 +26,25 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 | Field   | Role     | Duration   |
 | --------  | -------- | ------ |
-| *gaming* | *ux/ui designer*` | `3 months` |
+| *gaming* | *ux/ui designer*` | `12 weeks` |
 
 <!--## Project Timeline & my contribution
 
 As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing. 
 
-`1 Initial Research and Planning: team coordination, project setup, communication management`
+`1 Initial Research and Planning (2 weeks): team coordination, project setup, communication management`
 
-`2 Ideation and Concept Development: ideation facilitation, concept refinement`
+`2 Ideation and Concept Development (2 weeks): ideation facilitation, concept refinement`
 
-`3 Research: academic research, user insights`
+`3 Research (2 weeks): academic research, user insights`
 
-`4 Define: mapping and market analysis`
+`4 Define (2 weeks): mapping and market analysis`
 
-`5 Game Design & Mechanics: information Architecture, prototypying & interaction`
+`5 Game Design & Mechanics (8 weeks): information Architecture, prototypying & interaction`
 
-`4 Pitch Preparation: market focus`
+`4 Pitch Preparation (2 weeks): market focus`
 
-`5 User Testing & Feedback: creation and data analysis`  
+`5 User Testing & Feedback (1 week): creation and data analysis`  
 
 ## Step 1: Initial Research and Planning
 
@@ -91,7 +91,7 @@ In response, I expanded the market research, analyzing multiple sources such as 
 
 ## Steps 6: User testing
 
-To validate the concept and using the pitch practise as a reference, we created a [User validation form](https://docs.google.com/forms/d/e/1FAIpQLSeG2cV8M9Th-uazXBfynRTGvkK0BwlurVRDz1wtnA_jUrZkUw/viewform) and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research. 
+To validate the concept and using the pitch practise as a reference, we created a [User validation form](https://docs.google.com/forms/d/e/1FAIpQLSeG2cV8M9Th-uazXBfynRTGvkK0BwlurVRDz1wtnA_jUrZkUw/viewform) and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research.
 
 The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo.
 
