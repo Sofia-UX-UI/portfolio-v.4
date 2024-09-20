@@ -14,29 +14,56 @@ categories:
     - Development
 
 ---
-<!--## Project overview
+## Project overview
 
-Bioacoustics Learn (BL) integrates online repositories to curate technical content for marine and terrestrial bioacousticians, featuring a scalable design system developed with variable parameters for enhanced usability. Community-driven user testing and research informed continuous improvement and iterations.
+This case study is based on the paper "Code Search Role in Mitigating Divergences in Software Design: A UX Perspective", which is currently under review. The co-authors of the paper are Luca Di Grazia and Chengcheng Qu.
 
 | Field   | Role     | Duration   |
 | --------  | -------- | ------ |
-| *bioacoustics* | *lead designer*` | `3 months` |
+| *software development* | *researcher*` | `6 months` |
 
-## Project Timeline
+## 1. Introduction
 
-The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.
+This case study outlines research conducted as part of the paper "Code Search Role in Mitigating Divergences in Software Design: A UX Perspective". The project examines how code search can improve the integration of user experience (UX) design within software development workflows, specifically during the design handoff. With advancements in AI tools like GitHub Copilot, code search has gained importance for UX practitioners and developers. Our aim was to investigate how better search tools can resolve collaboration issues and streamline the transition from design to development.
 
-`1 Research: 3 weeks`
+## 2. Project timeline
 
-`2 Define: 2 weeks`
+The research project spanned six months and was initiated within the UXO740 module of the MA in User Experience Design at Falmouth University. Key phases included:
 
-`3 Ideate: 1 week`
+- Initial Research (1 month): Ideation, problem definition, and hypothesis formulation.
+- Data Collection (1 month): Conducting qualitative interviews with UX designers and developers, and running a quantitative survey.
+- Analysis and Iteration (2 month): Identifying patterns from the data and refining our hypotheses.
+- Paper Writing & Review (1 month): Preparing the findings for submission and review in an academic journal.
 
-`4 Prototype: 1 month`
+## 3. Methodology
 
-`5 Test: 1 week`  
+We employed a mixed-methods approach:
 
-## Step 1: Research-->
+- Qualitative: In-depth interviews with UX designers, developers, and product managers, focusing on their use of code search tools during design handoff.
+- Quantitative: A survey was distributed to gather broader insights on how professionals utilize code search and where current tools fall short.
+- Research Questions: Key questions included, “How does code search impact collaboration between UX designers and developers?” and “What improvements are needed to better integrate design handoff in software development?”
+
+## 4. Findings
+
+Our research revealed several important insights:
+
+- Qualitative Insights: Interviewees highlighted that code search is essential for resolving ambiguities during design handoff, especially when searching for API patterns or design constraints.
+- Quantitative Data: 76% of survey respondents indicated they frequently rely on free-form text queries during development. However, many noted that current search tools are not fully optimized for design-related searches.
+- AI Tool Integration: Respondents expressed that tools like GitHub Copilot are transforming code search, yet improvements are needed to better accommodate UX-related queries and handoff processes.
+
+## 5. Challenges and Lessons Learned
+
+One of the key challenges identified in the study is the variation in code search usage across teams. While 33.3% of participants reported never using code search, the majority (77.7%) used it periodically, reflecting its essential role in the design-to-development handoff. This finding highlights that code search is crucial for both designers and developers, regardless of their background. However, current tools are not optimized for the diverse needs of both professions.
+
+Another challenge was the complexity of integrating AI into the design handoff process. While AI tools like GitHub Copilot have shown transformative potential in retrieving context-specific code, training AI models to handle design-oriented tasks remains an area for improvement. Participants expressed the need for more designer-centric AI applications that can bridge the gap between UX design and development workflows, particularly to resolve handoff issues and reduce ambiguity.
+
+## 6. Conclusion
+
+The study reinforced the pivotal role of code search in facilitating collaboration between UX designers and developers during the handoff process. The research revealed a universal reliance on code search tools, with a preference for free-form text queries (86.7%), emphasizing the need for more inclusive and adaptable search interfaces. AI's role in improving code retrieval was also explored, pointing toward a future where designers could train AI to better handle design handoff tasks, thereby streamlining the process and reducing conflicts over the "source of truth."
+
+Despite the promising insights, the study also acknowledged its limitations, such as the small sample size and potential participant bias. Future research should aim for larger, more diverse samples, focus on refining AI training models, and conduct longitudinal studies to track the long-term impact of collaborative tools on team dynamics and productivity. Further experiments on code search from a UX perspective are necessary to ensure these tools meet the unique needs of design workflows.
+
+<!--
 - themes
   - syntax
 
