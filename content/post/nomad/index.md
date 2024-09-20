@@ -97,9 +97,7 @@ In response, I expanded the market research, analyzing multiple sources such as 
 
 ## Steps 6: User testing
 
-To validate the concept and using the pitch practise as a reference, we created a [User validation form](https://docs.google.com/forms/d/e/1FAIpQLSeG2cV8M9Th-uazXBfynRTGvkK0BwlurVRDz1wtnA_jUrZkUw/viewform) and distributed it among a small audience to gain some early feedback on the concept and the learning side of the game. A user testing form was also created to allow users to test the game in action. Unfortunately, as the game was being developed until the last minute there was no time to conduct user research.
-
-The results from the user validation form indicated that our user sample followed the industries trends and the most used app was Duolinguo.
+To validate the concept, we created a [user validation form] (https://docs.google.com/forms/d/e/1FAIpQLSeG2cV8M9Th-uazXBfynRTGvkK0BwlurVRDz1wtnA_jUrZkUw/viewform) and distributed it to a small audience for early feedback on the game’s concept and language-learning features. Additionally, a [user testing form] (https://docs.google.com/forms/d/1Mo_XcGVWYE6tfgvGaDr-gtkredFqT9r_WXiTnyPEdac/edit) was developed to gather input from users playing the game. However, due to time constraints with the development process, there wasn’t enough time to conduct thorough user research. Despite this, user validation revealed strong engagement with the game’s language-learning mechanics, and feedback highlighted the intuitive design and cultural immersion as key strengths.
 
 [Future development](26.jpeg)![Future development](27.jpeg)
 
