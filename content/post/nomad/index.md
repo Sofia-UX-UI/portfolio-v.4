@@ -37,7 +37,7 @@ Nomad's notes is a collaborative end-to-end game developed as a joint project be
 
 <!--## Project Timeline & my contribution
 
-As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing.
+As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, prototyping, user validation, and user testing.
 
 `1 Initial Research and Planning (2 weeks): team coordination, project setup, communication management`
 
@@ -60,7 +60,7 @@ Given the 5-hour time zone difference, it was crucial to carefully select collab
 The initial planning phase included team-building activities to help us understand each member's strengths, which informed decisions about project direction and goals for each stage. Early discussions centered around whether to develop a gamified app or a full game. Since the developers had limited experience with app development and the timeline was tight, we collectively decided to focus on creating a game to avoid potential delays from the learning curve.
 
 | Code repository   | Project management     | Communication   | Design | Development | Cloud | Coding |
-| --------  | -------- | ------ | ------ |
+| --------  | -------- | ------ | ------ | ------ | ------ | ------ |
 | *Github* | *Jira* | *Discord* | *Figma, Adobe suite, Miro* | *Unity, Procreate, Inkle* | *One Drive* | *Visual Studio Code* |
 
 ## Step 2: Ideation and Concept Development

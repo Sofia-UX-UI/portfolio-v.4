@@ -7,7 +7,7 @@ math: true
 categories:
     - User research
     - React
-    - Generative AI
+    - AI
     - Development
 ---
 # Concept and Experience
@@ -16,7 +16,7 @@ Character Designer is a fine-tuned generative AI tool designed to assist users i
 
 Our tool addresses this by streamlining the character creation process, generating both character images with image stabilization and narrative backstories through text generation based on user inputs. By fine-tuning the AI with data from trending games, Character Designer ensures the delivery of high-quality images and narratives, helping users bring their creative visions to life efficiently.
 
-For more details, the PC version of the game can be downloaded [here](https://foxracinggurl.itch.io/nomads-notes).
+For more details, the web app can be downloaded [here](https://github.com/mrtonks/encode-ai-final-project).
 
 ## Web app Runthrough
 
@@ -28,25 +28,31 @@ Character Designer is a collaborative web app developed as a final project for A
 
 | Field   | Role     | Duration   |
 | --------  | -------- | ------ |
-| *Generative AI* | *ux/ui designer*` | `12 weeks` |
+| *Generative AI* | *ux/ui designer*` | `2 weeks` |
 
-<!--## Project Timeline & my contribution
+## Project Timeline & my contribution
 
-As a collaborative project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, academic research, market analysis, information architecture, user validation, and user testing.
+As a joint project, the division of tasks mainly followed each area of expertise. My contribution covered areas of user research, market analysis, information architecture, prototyping, and user validation.
 
-`1 Initial Research and Planning (2 weeks): team coordination, project setup, communication management`
+`1 Topic selection and Planning (1 day): communication, topics proposals`
 
-`2 Ideation and Concept Development (2 weeks): ideation facilitation, concept refinement`
+`2 Ideation and Concept Development (2 days): ideation facilitation, concept refinement`
 
-`3 Research (2 weeks): academic research, user insights`
+`3 Prototyping (2 days): academic research, user insights`
 
-`4 Define (2 weeks): mapping and market analysis`
+`4 Front-end dev (5 days): mapping and market analysis`
 
-`5 Game Design & Mechanics (8 weeks): information Architecture, prototypying & interaction`
+`5 Back-end dev (3 days): information Architecture, prototypying & interaction`
 
-`4 Pitch Preparation (2 weeks): market focus`
+`4 Pitch Preparation (1 day): market focus`
 
-`5 User Testing & Feedback (1 week): creation and data analysis`  
+## Step 1: Initial Research and Planning
+
+Character Designer was the final project of the AI Bootcamp, conducted by Encode Club. After working for several weeks jointly with the assigned team we created a list which all the 3 members contributed with different ideas. Being in the same time zone, facilitated the creation of this project greatly. To decide on which topic to focus, we created a list with ideas that later each one of us voted on. The idea of a Character Designer was one of my contributions and came after realizing the potential application of Generative AI knowledge that we had been covering through the bootcamp. It was something that could be achieved in this short time frame, original and creative.
+
+| Code repository   | Communication   | Design   | Cloud | Coding |
+| --------  | -------- | ------ | ------ | ------ |
+| *Github* | *Discord* | *Figma* | *Google Drive* | *Visual Studio Code* |
 
 ## Iterations
 
