@@ -1,5 +1,4 @@
 ---
-
 title: Language Game Development
 
 description: Creating an engaging, language-based game from concept to launch.
@@ -15,7 +14,7 @@ categories:
     - Unity
     - Language learning
     - Development
---
+---
 
 # Game concept and Experience
 
