@@ -16,6 +16,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ---
 ![Desktop home page](DBA.jpg)
+Figma prototype [here](https://www.figma.com/design/x0nONoksBLoJgtwkUwogTy/Design-system-bioacoustics-learn?t=4Q0Tst00NULTFQ5r-0)
 
 ## Project overview
 
@@ -25,7 +26,7 @@ Bioacoustics Learn (BL) integrates online repositories to curate technical conte
 | --------  | -------- | ------ |
 | *bioacoustics* | *lead designer*` | `3 months` |
 
-## Project Timeline
+## Project Timeline & my contributions
 
 The project followed the Design Thinking methodology and the Double Diamond model, incorporating both divergent and convergent thinking. It was not linear, with overlaps and iterations occurring from the early stages.
 
